@@ -23,4 +23,5 @@ void swap(int *back, int *front);
 void print_list(const listint_t *list);
 void print_array(const int *array, size_t size);
 void insertion_sort_list(listint_t **list);
+void swap(int *left, int *right);
 #endif /*_SORT_H_*/
